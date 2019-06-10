@@ -18,9 +18,18 @@ public class WebURLScript : MonoBehaviour
 
     public void btnTwo()
     {
-        Application.OpenURL("www.google.com");
+        Application.OpenURL("https://www.linkedin.com/in/ravi-kumar-93276117b");
     }
 
+    public void btnthree()
+    {
+        Application.OpenURL("https://www.instagram.com/ravi27280/");
+    }
+
+    public void btnfour()
+    {
+        Application.OpenURL("www.google.com");
+    }
     // Update is called once per frame
     void Update()
     {

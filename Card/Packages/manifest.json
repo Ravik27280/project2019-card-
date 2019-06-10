@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "2.0.8",
@@ -15,6 +16,13 @@
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.1.0",
     "com.unity.ugui": "1.0.0",
+=======
+    "com.unity.package-manager-ui": "2.1.2",
+    "com.unity.postprocessing": "2.1.4",
+    "com.unity.progrids": "3.0.3-preview.4",
+    "com.unity.textmeshpro": "2.0.0",
+    "com.unity.timeline": "1.0.0",
+>>>>>>> f133979d209edb2413689b850410754b68a5a47a
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
